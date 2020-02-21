@@ -8,4 +8,11 @@
     tools:context=".Main2Activity"
     tools:showIn="@layout/activity_main2">
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="160dp"
+        android:inputType="textEmailAddress"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
